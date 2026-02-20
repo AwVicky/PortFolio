@@ -1,7 +1,7 @@
 # Portfolio Project Documentation
 
 **Last Updated:** February 20, 2026  
-**Developer:** Muhammad Hasaan (MH)  
+**Developer:** waqar shakeel (MH)  
 **Repository:** AwVicky/PortFolio
 
 ---
@@ -22,7 +22,7 @@
 
 ## Project Overview
 
-This is a **modern portfolio website** built to showcase Muhammad Hasaan's work as a Full Stack Software Engineer specializing in React Native and web development. The portfolio features:
+This is a **modern portfolio website** built to showcase waqar shakeel's work as a Full Stack Software Engineer specializing in React Native and web development. The portfolio features:
 
 - **Single-page application (SPA)** with smooth scrolling and section-based navigation
 - **Responsive design** that works seamlessly across mobile, tablet, and desktop
@@ -759,4 +759,4 @@ A **professional portfolio website** that showcases:
 
 **End of Documentation**
 
-For questions or contributions, contact: muhammadhasaanwork@gmail.com
+For questions or contributions, contact: waqarshakeel96@gmail.com

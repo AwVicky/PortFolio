@@ -9,7 +9,6 @@ export default function Hero() {
       id="about"
       className="relative min-h-screen flex items-center justify-center overflow-hidden bg-background"
     >
-      {/* Background image — subtle, b&w tinted */}
       <div className="absolute inset-0 z-0">
         <img
           src={heroBg}
@@ -18,8 +17,6 @@ export default function Hero() {
         />
         <div className="absolute inset-0 bg-gradient-to-b from-background/40 via-transparent to-background" />
       </div>
-
-      {/* Grid pattern overlay */}
       <div
         className="absolute inset-0 z-0 opacity-[0.035]"
         style={{
@@ -44,7 +41,7 @@ export default function Hero() {
             <div className="w-full h-full rounded-full overflow-hidden border-2 border-background">
               <img
                 src={profileImg}
-                alt="Muhammad Hasaan"
+                alt="waqar shakeel"
                 className="w-full h-full object-cover object-top"
               />
             </div>
@@ -65,7 +62,7 @@ export default function Hero() {
         <h1 className="animate-slide-up opacity-0 delay-100 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-4 text-foreground">
           Muhammad{" "}
           <span className="relative inline-block">
-            <span className="text-gradient">Hasaan</span>
+            <span className="text-gradient">Waqar</span>
             <span className="absolute -bottom-1 left-0 w-full h-0.5 bg-foreground/20 rounded-full" />
           </span>
         </h1>
@@ -93,7 +90,7 @@ export default function Hero() {
             View Projects
           </a>
           <a
-            href="mailto:muhammadhasaanwork@gmail.com"
+            href="mailto:waqarshakeel96@gmail.com"
             className="px-8 py-3 rounded-full border border-foreground/30 text-foreground hover:bg-foreground hover:text-background transition-all duration-200 font-semibold text-sm"
           >
             Get In Touch
@@ -103,7 +100,7 @@ export default function Hero() {
         {/* Social Links */}
         <div className="animate-slide-up opacity-0 delay-500 flex gap-6 items-center">
           <a
-            href="https://github.com/MuhammadHasaanWaseem"
+            href="https://github.com/waqar shakeel"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors text-sm font-medium group"
@@ -113,7 +110,7 @@ export default function Hero() {
           </a>
           <span className="w-px h-4 bg-border" />
           <a
-            href="https://linkedin.com/in/MuhammadHasaan"
+            href="https://linkedin.com/in/waqar shakeel"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors text-sm font-medium group"
@@ -123,7 +120,7 @@ export default function Hero() {
           </a>
           <span className="w-px h-4 bg-border" />
           <a
-            href="mailto:muhammadhasaanwork@gmail.com"
+            href="mailto:waqarshakeel96@gmail.com"
             className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors text-sm font-medium group"
           >
             <Mail size={16} className="group-hover:scale-110 transition-transform" />

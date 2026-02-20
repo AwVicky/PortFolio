@@ -27,8 +27,8 @@ export default function Contact() {
             {
               icon: <Mail size={20} />,
               label: "Email",
-              value: "muhammadhasaanwork@gmail.com",
-              href: "mailto:muhammadhasaanwork@gmail.com",
+              value: "waqarshakeel96@gmail.com",
+              href: "mailto:waqarshakeel96@gmail.com",
               delay: 100,
             },
             {
@@ -42,15 +42,15 @@ export default function Contact() {
             {
               icon: <Github size={20} />,
               label: "GitHub",
-              value: "MuhammadHasaanWaseem",
-              href: "https://github.com/MuhammadHasaanWaseem",
+              value: "waqar shakeel",
+              href: "https://github.com/waqar shakeel",
               delay: 300,
             },
             {
               icon: <Linkedin size={20} />,
               label: "LinkedIn",
-              value: "MuhammadHasaan",
-              href: "https://linkedin.com/in/MuhammadHasaan",
+              value: "waqar shakeel",
+              href: "https://linkedin.com/in/waqar shakeel",
               delay: 400,
             },
           ].map((item) => (
